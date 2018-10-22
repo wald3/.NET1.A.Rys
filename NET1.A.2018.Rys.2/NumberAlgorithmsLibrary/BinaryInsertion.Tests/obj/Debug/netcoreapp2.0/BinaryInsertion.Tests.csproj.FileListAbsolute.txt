@@ -1,0 +1,17 @@
+c:\users\vladislav\source\repos\NumberAlgorithmsLibrary\BinaryInsertion.Tests\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+c:\users\vladislav\source\repos\NumberAlgorithmsLibrary\BinaryInsertion.Tests\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+c:\users\vladislav\source\repos\NumberAlgorithmsLibrary\BinaryInsertion.Tests\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+c:\users\vladislav\source\repos\NumberAlgorithmsLibrary\BinaryInsertion.Tests\bin\Debug\netcoreapp2.0\BinaryInsertion.Tests.deps.json
+c:\users\vladislav\source\repos\NumberAlgorithmsLibrary\BinaryInsertion.Tests\bin\Debug\netcoreapp2.0\BinaryInsertion.Tests.runtimeconfig.json
+c:\users\vladislav\source\repos\NumberAlgorithmsLibrary\BinaryInsertion.Tests\bin\Debug\netcoreapp2.0\BinaryInsertion.Tests.runtimeconfig.dev.json
+c:\users\vladislav\source\repos\NumberAlgorithmsLibrary\BinaryInsertion.Tests\bin\Debug\netcoreapp2.0\BinaryInsertion.Tests.dll
+c:\users\vladislav\source\repos\NumberAlgorithmsLibrary\BinaryInsertion.Tests\bin\Debug\netcoreapp2.0\BinaryInsertion.Tests.pdb
+c:\users\vladislav\source\repos\NumberAlgorithmsLibrary\BinaryInsertion.Tests\obj\Debug\netcoreapp2.0\BinaryInsertion.Tests.csprojAssemblyReference.cache
+c:\users\vladislav\source\repos\NumberAlgorithmsLibrary\BinaryInsertion.Tests\obj\Debug\netcoreapp2.0\BinaryInsertion.Tests.csproj.CoreCompileInputs.cache
+c:\users\vladislav\source\repos\NumberAlgorithmsLibrary\BinaryInsertion.Tests\obj\Debug\netcoreapp2.0\BinaryInsertion.Tests.AssemblyInfoInputs.cache
+c:\users\vladislav\source\repos\NumberAlgorithmsLibrary\BinaryInsertion.Tests\obj\Debug\netcoreapp2.0\BinaryInsertion.Tests.AssemblyInfo.cs
+c:\users\vladislav\source\repos\NumberAlgorithmsLibrary\BinaryInsertion.Tests\obj\Debug\netcoreapp2.0\BinaryInsertion.Tests.dll
+c:\users\vladislav\source\repos\NumberAlgorithmsLibrary\BinaryInsertion.Tests\obj\Debug\netcoreapp2.0\BinaryInsertion.Tests.pdb
+c:\users\vladislav\source\repos\NumberAlgorithmsLibrary\BinaryInsertion.Tests\bin\Debug\netcoreapp2.0\NumberAlgorithmsLibrary.dll
+c:\users\vladislav\source\repos\NumberAlgorithmsLibrary\BinaryInsertion.Tests\bin\Debug\netcoreapp2.0\NumberAlgorithmsLibrary.pdb
+c:\users\vladislav\source\repos\NumberAlgorithmsLibrary\BinaryInsertion.Tests\obj\Debug\netcoreapp2.0\BinaryInsertion.Tests.csproj.CopyComplete
