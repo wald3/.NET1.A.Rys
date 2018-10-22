@@ -1,0 +1,9 @@
+C:\Users\Vladislav\source\repos\SortingLibrary\SortingLibrary\bin\Debug\netcoreapp2.0\SortingLibrary.deps.json
+C:\Users\Vladislav\source\repos\SortingLibrary\SortingLibrary\bin\Debug\netcoreapp2.0\SortingLibrary.dll
+C:\Users\Vladislav\source\repos\SortingLibrary\SortingLibrary\obj\Debug\netcoreapp2.0\SortingLibrary.csprojAssemblyReference.cache
+C:\Users\Vladislav\source\repos\SortingLibrary\SortingLibrary\obj\Debug\netcoreapp2.0\SortingLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Vladislav\source\repos\SortingLibrary\SortingLibrary\obj\Debug\netcoreapp2.0\SortingLibrary.AssemblyInfoInputs.cache
+C:\Users\Vladislav\source\repos\SortingLibrary\SortingLibrary\obj\Debug\netcoreapp2.0\SortingLibrary.AssemblyInfo.cs
+C:\Users\Vladislav\source\repos\SortingLibrary\SortingLibrary\bin\Debug\netcoreapp2.0\SortingLibrary.pdb
+C:\Users\Vladislav\source\repos\SortingLibrary\SortingLibrary\obj\Debug\netcoreapp2.0\SortingLibrary.dll
+C:\Users\Vladislav\source\repos\SortingLibrary\SortingLibrary\obj\Debug\netcoreapp2.0\SortingLibrary.pdb

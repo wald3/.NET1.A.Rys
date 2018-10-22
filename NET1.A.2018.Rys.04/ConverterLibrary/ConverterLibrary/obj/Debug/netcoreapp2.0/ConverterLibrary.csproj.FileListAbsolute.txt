@@ -1,0 +1,9 @@
+C:\Users\Vladislav\source\repos\NET1.A.2018.Rys\NET1.A.2018.Rys.04\ConverterLibrary\ConverterLibrary\obj\Debug\netcoreapp2.0\ConverterLibrary.csprojAssemblyReference.cache
+C:\Users\Vladislav\source\repos\NET1.A.2018.Rys\NET1.A.2018.Rys.04\ConverterLibrary\ConverterLibrary\obj\Debug\netcoreapp2.0\ConverterLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Vladislav\source\repos\NET1.A.2018.Rys\NET1.A.2018.Rys.04\ConverterLibrary\ConverterLibrary\obj\Debug\netcoreapp2.0\ConverterLibrary.AssemblyInfoInputs.cache
+C:\Users\Vladislav\source\repos\NET1.A.2018.Rys\NET1.A.2018.Rys.04\ConverterLibrary\ConverterLibrary\obj\Debug\netcoreapp2.0\ConverterLibrary.AssemblyInfo.cs
+C:\Users\Vladislav\source\repos\NET1.A.2018.Rys\NET1.A.2018.Rys.04\ConverterLibrary\ConverterLibrary\bin\Debug\netcoreapp2.0\ConverterLibrary.deps.json
+C:\Users\Vladislav\source\repos\NET1.A.2018.Rys\NET1.A.2018.Rys.04\ConverterLibrary\ConverterLibrary\bin\Debug\netcoreapp2.0\ConverterLibrary.dll
+C:\Users\Vladislav\source\repos\NET1.A.2018.Rys\NET1.A.2018.Rys.04\ConverterLibrary\ConverterLibrary\bin\Debug\netcoreapp2.0\ConverterLibrary.pdb
+C:\Users\Vladislav\source\repos\NET1.A.2018.Rys\NET1.A.2018.Rys.04\ConverterLibrary\ConverterLibrary\obj\Debug\netcoreapp2.0\ConverterLibrary.dll
+C:\Users\Vladislav\source\repos\NET1.A.2018.Rys\NET1.A.2018.Rys.04\ConverterLibrary\ConverterLibrary\obj\Debug\netcoreapp2.0\ConverterLibrary.pdb

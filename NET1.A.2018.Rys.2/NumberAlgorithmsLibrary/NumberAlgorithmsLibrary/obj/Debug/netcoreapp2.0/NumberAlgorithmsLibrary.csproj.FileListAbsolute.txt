@@ -1,9 +1,0 @@
-c:\users\vladislav\source\repos\NumberAlgorithmsLibrary\NumberAlgorithmsLibrary\obj\Debug\netcoreapp2.0\NumberAlgorithmsLibrary.csprojAssemblyReference.cache
-c:\users\vladislav\source\repos\NumberAlgorithmsLibrary\NumberAlgorithmsLibrary\obj\Debug\netcoreapp2.0\NumberAlgorithmsLibrary.csproj.CoreCompileInputs.cache
-c:\users\vladislav\source\repos\NumberAlgorithmsLibrary\NumberAlgorithmsLibrary\obj\Debug\netcoreapp2.0\NumberAlgorithmsLibrary.AssemblyInfoInputs.cache
-c:\users\vladislav\source\repos\NumberAlgorithmsLibrary\NumberAlgorithmsLibrary\obj\Debug\netcoreapp2.0\NumberAlgorithmsLibrary.AssemblyInfo.cs
-c:\users\vladislav\source\repos\NumberAlgorithmsLibrary\NumberAlgorithmsLibrary\bin\Debug\netcoreapp2.0\NumberAlgorithmsLibrary.deps.json
-c:\users\vladislav\source\repos\NumberAlgorithmsLibrary\NumberAlgorithmsLibrary\bin\Debug\netcoreapp2.0\NumberAlgorithmsLibrary.dll
-c:\users\vladislav\source\repos\NumberAlgorithmsLibrary\NumberAlgorithmsLibrary\bin\Debug\netcoreapp2.0\NumberAlgorithmsLibrary.pdb
-c:\users\vladislav\source\repos\NumberAlgorithmsLibrary\NumberAlgorithmsLibrary\obj\Debug\netcoreapp2.0\NumberAlgorithmsLibrary.dll
-c:\users\vladislav\source\repos\NumberAlgorithmsLibrary\NumberAlgorithmsLibrary\obj\Debug\netcoreapp2.0\NumberAlgorithmsLibrary.pdb

@@ -1,0 +1,9 @@
+C:\Users\Vladislav\source\repos\SortingLibrary.Tests\HelperMethods\bin\Debug\netcoreapp2.0\HelperMethods.deps.json
+C:\Users\Vladislav\source\repos\SortingLibrary.Tests\HelperMethods\bin\Debug\netcoreapp2.0\HelperMethods.dll
+C:\Users\Vladislav\source\repos\SortingLibrary.Tests\HelperMethods\bin\Debug\netcoreapp2.0\HelperMethods.pdb
+C:\Users\Vladislav\source\repos\SortingLibrary.Tests\HelperMethods\obj\Debug\netcoreapp2.0\HelperMethods.csproj.CoreCompileInputs.cache
+C:\Users\Vladislav\source\repos\SortingLibrary.Tests\HelperMethods\obj\Debug\netcoreapp2.0\HelperMethods.AssemblyInfoInputs.cache
+C:\Users\Vladislav\source\repos\SortingLibrary.Tests\HelperMethods\obj\Debug\netcoreapp2.0\HelperMethods.AssemblyInfo.cs
+C:\Users\Vladislav\source\repos\SortingLibrary.Tests\HelperMethods\obj\Debug\netcoreapp2.0\HelperMethods.dll
+C:\Users\Vladislav\source\repos\SortingLibrary.Tests\HelperMethods\obj\Debug\netcoreapp2.0\HelperMethods.pdb
+C:\Users\Vladislav\source\repos\SortingLibrary.Tests\HelperMethods\obj\Debug\netcoreapp2.0\HelperMethods.csprojAssemblyReference.cache
