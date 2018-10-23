@@ -1,6 +1,5 @@
-﻿using System;
-using NUnit.Framework;
-using ConverterLibrary;
+﻿using NUnit.Framework;
+using System;
 
 namespace TransformToWords.Nu.Tests
 {
@@ -34,7 +33,7 @@ namespace TransformToWords.Nu.Tests
         {
             Assert.AreEqual(ConverterLibrary.TransformToWords.Transform(doubles), actual);
         }
-        
+
         [Test]
         public void Transform_NullReference_ArgumentNullException()
         {

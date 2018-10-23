@@ -14,7 +14,7 @@ namespace ConverterLibrary
         /// </summary>
         /// <param name="arrayDoubles"> Array of doubles that need to be transform. </param>
         /// <returns> Returns an array of strings. </returns>
-        public static string[] Transform(double[] arrayDoubles)
+        public static string[] Transform(params double[] arrayDoubles)
         {
             if (arrayDoubles == null)
             {
@@ -37,23 +37,48 @@ namespace ConverterLibrary
 
                 result[i] = result[i].Remove(result[i].Length - 1, 1);
             }
+
             return result;
         }
 
         private static readonly Dictionary<char, string> translater = new Dictionary<char, string>()
         {
-            {'0', "zero"},
-            {'1', "one"},
-            {'2', "two"},
-            {'3', "three"},
-            {'4', "four"},
-            {'5', "five"},
-            {'6', "six"},
-            {'7', "seven"},
-            {'8', "eight"},
-            {'9', "nine"},
-            {'-', "minus"},
-            {',', "point"},
+            {
+                '0', "zero"
+            },
+            {
+                '1', "one"
+            },
+            {
+                '2', "two"
+            },
+            {
+                '3', "three"
+            },
+            {
+                '4', "four"
+            },
+            {
+                '5', "five"
+            },
+            {
+                '6', "six"
+            },
+            {
+                '7', "seven"
+            },
+            {
+                '8', "eight"
+            },
+            {
+                '9', "nine"
+            },
+            {
+                '-', "minus"
+            },
+            {
+                ',', "point"
+            },
         };
     }
 }
