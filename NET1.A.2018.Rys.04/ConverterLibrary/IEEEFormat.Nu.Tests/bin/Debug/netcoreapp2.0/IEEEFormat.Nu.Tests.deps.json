@@ -1,21 +1,20 @@
 {
   "runtimeTarget": {
     "name": ".NETCoreApp,Version=v2.0",
-    "signature": "77d428b738068d04ec9293d617b168e09734c3c9"
+    "signature": "e994764f64f3211885e5e2c62192bfb20f0d4a8b"
   },
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v2.0": {
-      "TransformToWords.Nu.Tests/1.0.0": {
+      "IEEEFormat.Nu.Tests/1.0.0": {
         "dependencies": {
           "Microsoft.NET.Test.Sdk": "15.9.0",
           "NUnit": "3.11.0",
           "NUnit3TestAdapter": "3.10.0",
-          "StyleCop.Analyzers": "1.1.0-beta009",
           "ConverterLibrary": "1.0.0.0"
         },
         "runtime": {
-          "TransformToWords.Nu.Tests.dll": {}
+          "IEEEFormat.Nu.Tests.dll": {}
         }
       },
       "Microsoft.CodeCoverage/15.9.0": {
@@ -405,7 +404,6 @@
           "Microsoft.NETCore.Targets": "1.1.0"
         }
       },
-      "StyleCop.Analyzers/1.1.0-beta009": {},
       "System.AppContext/4.1.0": {
         "dependencies": {
           "System.Runtime": "4.3.0"
@@ -1027,7 +1025,7 @@
     }
   },
   "libraries": {
-    "TransformToWords.Nu.Tests/1.0.0": {
+    "IEEEFormat.Nu.Tests/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
@@ -1136,13 +1134,6 @@
       "sha512": "sha512-c/qWt2LieNZIj1jGnVNsE2Kl23Ya2aSTBuXMD6V7k9KWr6l16Tqdwq+hJScEpWER9753NWC8h96PaVNY5Ld7Jw==",
       "path": "runtime.native.system/4.3.0",
       "hashPath": "runtime.native.system.4.3.0.nupkg.sha512"
-    },
-    "StyleCop.Analyzers/1.1.0-beta009": {
-      "type": "package",
-      "serviceable": true,
-      "sha512": "sha512-/gGBepXm5/7YWyPs/I+OqWYSaMeR8QEP63Jxm4DbnJmM9VPzgc7vtxvIbr7GtWotVNDzWa1YdJ1yzt/WTdI7vA==",
-      "path": "stylecop.analyzers/1.1.0-beta009",
-      "hashPath": "stylecop.analyzers.1.1.0-beta009.nupkg.sha512"
     },
     "System.AppContext/4.1.0": {
       "type": "package",

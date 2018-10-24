@@ -1,5 +1,6 @@
 ﻿using NUnit.Framework;
 using System;
+using ConverterLibrary;
 
 namespace TransformToWords.Nu.Tests
 {
@@ -46,5 +47,11 @@ namespace TransformToWords.Nu.Tests
             Assert.Throws<ArgumentException>(() => ConverterLibrary.TransformToWords.Transform(new double[0]));
         }
 
+        [TestCase(new[] { -0.0 }, new[] { "1000000000000000000000000000000000000000000000000000000000000000" })]
+        [TestCase(new[] { 0.0 }, new[] { "0000000000000000000000000000000000000000000000000000000000000000" })]
+        public void Format_ArrayOfDoubles_BinaryStringArray(double[] doubles, string[] actual)
+        {
+            Assert.AreEqual(doubles.Format(), actual);
+        }
     }
 }
