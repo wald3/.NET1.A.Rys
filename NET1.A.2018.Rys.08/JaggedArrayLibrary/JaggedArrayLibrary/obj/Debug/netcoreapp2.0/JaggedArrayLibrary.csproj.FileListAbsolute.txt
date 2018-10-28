@@ -1,0 +1,9 @@
+C:\Users\Vladislav\source\repos\JaggedArrayLibrary\JaggedArrayLibrary\bin\Debug\netcoreapp2.0\JaggedArrayLibrary.deps.json
+C:\Users\Vladislav\source\repos\JaggedArrayLibrary\JaggedArrayLibrary\bin\Debug\netcoreapp2.0\JaggedArrayLibrary.dll
+C:\Users\Vladislav\source\repos\JaggedArrayLibrary\JaggedArrayLibrary\bin\Debug\netcoreapp2.0\JaggedArrayLibrary.pdb
+C:\Users\Vladislav\source\repos\JaggedArrayLibrary\JaggedArrayLibrary\obj\Debug\netcoreapp2.0\JaggedArrayLibrary.csprojAssemblyReference.cache
+C:\Users\Vladislav\source\repos\JaggedArrayLibrary\JaggedArrayLibrary\obj\Debug\netcoreapp2.0\JaggedArrayLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Vladislav\source\repos\JaggedArrayLibrary\JaggedArrayLibrary\obj\Debug\netcoreapp2.0\JaggedArrayLibrary.AssemblyInfoInputs.cache
+C:\Users\Vladislav\source\repos\JaggedArrayLibrary\JaggedArrayLibrary\obj\Debug\netcoreapp2.0\JaggedArrayLibrary.AssemblyInfo.cs
+C:\Users\Vladislav\source\repos\JaggedArrayLibrary\JaggedArrayLibrary\obj\Debug\netcoreapp2.0\JaggedArrayLibrary.dll
+C:\Users\Vladislav\source\repos\JaggedArrayLibrary\JaggedArrayLibrary\obj\Debug\netcoreapp2.0\JaggedArrayLibrary.pdb
