@@ -9,6 +9,36 @@ namespace JaggedArray.Nu.Tests
     [TestFixture]
     public class JaggedArrayMaxElementSort
     {
+        #region TEST
+
+        [Test]
+        public void test()
+        {
+            var unsorted = new[]
+            {
+
+                null,
+                new[] { 1, 2, 3 },
+                null,
+                new[] { 1, 2, 3 },
+            };
+
+            var actual = new[]
+            {
+                null,
+                null,
+                new[] { 1, 2, 3 },
+                new[] { 1, 2, 3 },
+
+            };
+
+            JaggedSorter.Sort(unsorted, new MaxElementOrder());
+            Assert.AreEqual(unsorted, actual);
+        }
+
+        #endregion
+
+
         [Test]
         public void Sort_UnsortedJaggedArrayWithMaxElementComparator_SortedInRightWayArray()
         {

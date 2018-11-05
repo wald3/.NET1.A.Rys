@@ -5681,11 +5681,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Vladislav\\source\\repos\\JaggedArrayLibrary\\JaggedArray.Nu.Tests\\JaggedArray.Nu.Tests.csproj",
+      "projectUniqueName": "C:\\Users\\Vladislav\\source\\repos\\NET1.A.2018.Rys\\NET1.A.2018.Rys.08\\JaggedArrayLibrary\\JaggedArray.Nu.Tests\\JaggedArray.Nu.Tests.csproj",
       "projectName": "JaggedArray.Nu.Tests",
-      "projectPath": "C:\\Users\\Vladislav\\source\\repos\\JaggedArrayLibrary\\JaggedArray.Nu.Tests\\JaggedArray.Nu.Tests.csproj",
+      "projectPath": "C:\\Users\\Vladislav\\source\\repos\\NET1.A.2018.Rys\\NET1.A.2018.Rys.08\\JaggedArrayLibrary\\JaggedArray.Nu.Tests\\JaggedArray.Nu.Tests.csproj",
       "packagesPath": "C:\\Users\\Vladislav\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Vladislav\\source\\repos\\JaggedArrayLibrary\\JaggedArray.Nu.Tests\\obj\\",
+      "outputPath": "C:\\Users\\Vladislav\\source\\repos\\NET1.A.2018.Rys\\NET1.A.2018.Rys.08\\JaggedArrayLibrary\\JaggedArray.Nu.Tests\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

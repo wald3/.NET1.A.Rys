@@ -670,11 +670,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Vladislav\\source\\repos\\JaggedArrayLibrary\\JaggedArrayLibrary\\JaggedArrayLibrary.csproj",
+      "projectUniqueName": "C:\\Users\\Vladislav\\source\\repos\\NET1.A.2018.Rys\\NET1.A.2018.Rys.08\\JaggedArrayLibrary\\JaggedArrayLibrary\\JaggedArrayLibrary.csproj",
       "projectName": "JaggedArrayLibrary",
-      "projectPath": "C:\\Users\\Vladislav\\source\\repos\\JaggedArrayLibrary\\JaggedArrayLibrary\\JaggedArrayLibrary.csproj",
+      "projectPath": "C:\\Users\\Vladislav\\source\\repos\\NET1.A.2018.Rys\\NET1.A.2018.Rys.08\\JaggedArrayLibrary\\JaggedArrayLibrary\\JaggedArrayLibrary.csproj",
       "packagesPath": "C:\\Users\\Vladislav\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Vladislav\\source\\repos\\JaggedArrayLibrary\\JaggedArrayLibrary\\obj\\",
+      "outputPath": "C:\\Users\\Vladislav\\source\\repos\\NET1.A.2018.Rys\\NET1.A.2018.Rys.08\\JaggedArrayLibrary\\JaggedArrayLibrary\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
