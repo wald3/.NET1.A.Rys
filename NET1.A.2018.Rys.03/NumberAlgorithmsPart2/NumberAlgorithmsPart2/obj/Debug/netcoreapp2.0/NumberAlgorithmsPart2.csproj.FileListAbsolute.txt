@@ -7,3 +7,12 @@ C:\Users\Vladislav\source\repos\NET1.A.2018.Rys\NET1.A.2018.Rys.3\NumberAlgorith
 C:\Users\Vladislav\source\repos\NET1.A.2018.Rys\NET1.A.2018.Rys.3\NumberAlgorithmsPart2\NumberAlgorithmsPart2\obj\Debug\netcoreapp2.0\NumberAlgorithmsPart2.AssemblyInfo.cs
 C:\Users\Vladislav\source\repos\NET1.A.2018.Rys\NET1.A.2018.Rys.3\NumberAlgorithmsPart2\NumberAlgorithmsPart2\obj\Debug\netcoreapp2.0\NumberAlgorithmsPart2.dll
 C:\Users\Vladislav\source\repos\NET1.A.2018.Rys\NET1.A.2018.Rys.3\NumberAlgorithmsPart2\NumberAlgorithmsPart2\obj\Debug\netcoreapp2.0\NumberAlgorithmsPart2.pdb
+C:\Users\Vladislav\source\repos\NET1.A.2018.Rys\NET1.A.2018.Rys.03\NumberAlgorithmsPart2\NumberAlgorithmsPart2\bin\Debug\netcoreapp2.0\NumberAlgorithmsPart2.deps.json
+C:\Users\Vladislav\source\repos\NET1.A.2018.Rys\NET1.A.2018.Rys.03\NumberAlgorithmsPart2\NumberAlgorithmsPart2\bin\Debug\netcoreapp2.0\NumberAlgorithmsPart2.dll
+C:\Users\Vladislav\source\repos\NET1.A.2018.Rys\NET1.A.2018.Rys.03\NumberAlgorithmsPart2\NumberAlgorithmsPart2\bin\Debug\netcoreapp2.0\NumberAlgorithmsPart2.pdb
+C:\Users\Vladislav\source\repos\NET1.A.2018.Rys\NET1.A.2018.Rys.03\NumberAlgorithmsPart2\NumberAlgorithmsPart2\obj\Debug\netcoreapp2.0\NumberAlgorithmsPart2.csprojAssemblyReference.cache
+C:\Users\Vladislav\source\repos\NET1.A.2018.Rys\NET1.A.2018.Rys.03\NumberAlgorithmsPart2\NumberAlgorithmsPart2\obj\Debug\netcoreapp2.0\NumberAlgorithmsPart2.csproj.CoreCompileInputs.cache
+C:\Users\Vladislav\source\repos\NET1.A.2018.Rys\NET1.A.2018.Rys.03\NumberAlgorithmsPart2\NumberAlgorithmsPart2\obj\Debug\netcoreapp2.0\NumberAlgorithmsPart2.AssemblyInfoInputs.cache
+C:\Users\Vladislav\source\repos\NET1.A.2018.Rys\NET1.A.2018.Rys.03\NumberAlgorithmsPart2\NumberAlgorithmsPart2\obj\Debug\netcoreapp2.0\NumberAlgorithmsPart2.AssemblyInfo.cs
+C:\Users\Vladislav\source\repos\NET1.A.2018.Rys\NET1.A.2018.Rys.03\NumberAlgorithmsPart2\NumberAlgorithmsPart2\obj\Debug\netcoreapp2.0\NumberAlgorithmsPart2.dll
+C:\Users\Vladislav\source\repos\NET1.A.2018.Rys\NET1.A.2018.Rys.03\NumberAlgorithmsPart2\NumberAlgorithmsPart2\obj\Debug\netcoreapp2.0\NumberAlgorithmsPart2.pdb
