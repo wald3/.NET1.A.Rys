@@ -1,4 +1,3 @@
-C:\Users\Vladislav\source\repos\NET1.A.2018.Rys\NET1.A.2018.Rys.04\ConverterLibrary\ConverterLibrary\obj\Debug\netcoreapp2.0\ConverterLibrary.csprojAssemblyReference.cache
 C:\Users\Vladislav\source\repos\NET1.A.2018.Rys\NET1.A.2018.Rys.04\ConverterLibrary\ConverterLibrary\obj\Debug\netcoreapp2.0\ConverterLibrary.csproj.CoreCompileInputs.cache
 C:\Users\Vladislav\source\repos\NET1.A.2018.Rys\NET1.A.2018.Rys.04\ConverterLibrary\ConverterLibrary\obj\Debug\netcoreapp2.0\ConverterLibrary.AssemblyInfoInputs.cache
 C:\Users\Vladislav\source\repos\NET1.A.2018.Rys\NET1.A.2018.Rys.04\ConverterLibrary\ConverterLibrary\obj\Debug\netcoreapp2.0\ConverterLibrary.AssemblyInfo.cs

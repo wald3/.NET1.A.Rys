@@ -1,0 +1,16 @@
+C:\Users\Vladislav\source\repos\NET1.A.2018.Rys\NET1.A.2018.Rys.04\ConverterLibrary\GCDAlgorithms.Nu.Tests\bin\Debug\netcoreapp2.0\GCDAlgorithms.Nu.Tests.deps.json
+C:\Users\Vladislav\source\repos\NET1.A.2018.Rys\NET1.A.2018.Rys.04\ConverterLibrary\GCDAlgorithms.Nu.Tests\bin\Debug\netcoreapp2.0\GCDAlgorithms.Nu.Tests.dll
+C:\Users\Vladislav\source\repos\NET1.A.2018.Rys\NET1.A.2018.Rys.04\ConverterLibrary\GCDAlgorithms.Nu.Tests\bin\Debug\netcoreapp2.0\ConverterLibrary.dll
+C:\Users\Vladislav\source\repos\NET1.A.2018.Rys\NET1.A.2018.Rys.04\ConverterLibrary\GCDAlgorithms.Nu.Tests\bin\Debug\netcoreapp2.0\ConverterLibrary.pdb
+C:\Users\Vladislav\source\repos\NET1.A.2018.Rys\NET1.A.2018.Rys.04\ConverterLibrary\GCDAlgorithms.Nu.Tests\obj\Debug\netcoreapp2.0\GCDAlgorithms.Nu.Tests.csproj.CoreCompileInputs.cache
+C:\Users\Vladislav\source\repos\NET1.A.2018.Rys\NET1.A.2018.Rys.04\ConverterLibrary\GCDAlgorithms.Nu.Tests\obj\Debug\netcoreapp2.0\GCDAlgorithms.Nu.Tests.AssemblyInfoInputs.cache
+C:\Users\Vladislav\source\repos\NET1.A.2018.Rys\NET1.A.2018.Rys.04\ConverterLibrary\GCDAlgorithms.Nu.Tests\obj\Debug\netcoreapp2.0\GCDAlgorithms.Nu.Tests.AssemblyInfo.cs
+C:\Users\Vladislav\source\repos\NET1.A.2018.Rys\NET1.A.2018.Rys.04\ConverterLibrary\GCDAlgorithms.Nu.Tests\obj\Debug\netcoreapp2.0\GCDAlgorithms.Nu.Tests.csproj.CopyComplete
+C:\Users\Vladislav\source\repos\NET1.A.2018.Rys\NET1.A.2018.Rys.04\ConverterLibrary\GCDAlgorithms.Nu.Tests\bin\Debug\netcoreapp2.0\NUnit3.TestAdapter.dll
+C:\Users\Vladislav\source\repos\NET1.A.2018.Rys\NET1.A.2018.Rys.04\ConverterLibrary\GCDAlgorithms.Nu.Tests\bin\Debug\netcoreapp2.0\NUnit3.TestAdapter.pdb
+C:\Users\Vladislav\source\repos\NET1.A.2018.Rys\NET1.A.2018.Rys.04\ConverterLibrary\GCDAlgorithms.Nu.Tests\bin\Debug\netcoreapp2.0\nunit.engine.netstandard.dll
+C:\Users\Vladislav\source\repos\NET1.A.2018.Rys\NET1.A.2018.Rys.04\ConverterLibrary\GCDAlgorithms.Nu.Tests\bin\Debug\netcoreapp2.0\GCDAlgorithms.Nu.Tests.runtimeconfig.json
+C:\Users\Vladislav\source\repos\NET1.A.2018.Rys\NET1.A.2018.Rys.04\ConverterLibrary\GCDAlgorithms.Nu.Tests\bin\Debug\netcoreapp2.0\GCDAlgorithms.Nu.Tests.runtimeconfig.dev.json
+C:\Users\Vladislav\source\repos\NET1.A.2018.Rys\NET1.A.2018.Rys.04\ConverterLibrary\GCDAlgorithms.Nu.Tests\bin\Debug\netcoreapp2.0\GCDAlgorithms.Nu.Tests.pdb
+C:\Users\Vladislav\source\repos\NET1.A.2018.Rys\NET1.A.2018.Rys.04\ConverterLibrary\GCDAlgorithms.Nu.Tests\obj\Debug\netcoreapp2.0\GCDAlgorithms.Nu.Tests.dll
+C:\Users\Vladislav\source\repos\NET1.A.2018.Rys\NET1.A.2018.Rys.04\ConverterLibrary\GCDAlgorithms.Nu.Tests\obj\Debug\netcoreapp2.0\GCDAlgorithms.Nu.Tests.pdb
