@@ -1,0 +1,4 @@
+C:\Users\Vladislav\source\repos\PolynomialLibrary\PolynomialLibrary\obj\Debug\netcoreapp2.0\PolynomialLibrary.csprojAssemblyReference.cache
+C:\Users\Vladislav\source\repos\PolynomialLibrary\PolynomialLibrary\obj\Debug\netcoreapp2.0\PolynomialLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Vladislav\source\repos\PolynomialLibrary\PolynomialLibrary\obj\Debug\netcoreapp2.0\PolynomialLibrary.AssemblyInfoInputs.cache
+C:\Users\Vladislav\source\repos\PolynomialLibrary\PolynomialLibrary\obj\Debug\netcoreapp2.0\PolynomialLibrary.AssemblyInfo.cs
