@@ -1,0 +1,20 @@
+C:\Users\MIB\Desktop\StreamsTask2017\ConsoleClient\obj\Debug\ConsoleClient.csprojResolveAssemblyReference.cache
+C:\Users\MIB\Desktop\StreamsTask2017\ConsoleClient\obj\Debug\ConsoleClient.csproj.CoreCompileInputs.cache
+C:\Users\MIB\Desktop\StreamsTask2017\ConsoleClient\bin\Debug\TextFile.txt
+C:\Users\MIB\Desktop\StreamsTask2017\ConsoleClient\bin\Debug\ConsoleClient.exe.config
+C:\Users\MIB\Desktop\StreamsTask2017\ConsoleClient\bin\Debug\ConsoleClient.exe
+C:\Users\MIB\Desktop\StreamsTask2017\ConsoleClient\bin\Debug\ConsoleClient.pdb
+C:\Users\MIB\Desktop\StreamsTask2017\ConsoleClient\bin\Debug\StreamsDemo.dll
+C:\Users\MIB\Desktop\StreamsTask2017\ConsoleClient\bin\Debug\StreamsDemo.pdb
+C:\Users\MIB\Desktop\StreamsTask2017\ConsoleClient\obj\Debug\ConsoleClient.exe
+C:\Users\MIB\Desktop\StreamsTask2017\ConsoleClient\obj\Debug\ConsoleClient.pdb
+C:\Users\MIB\Desktop\New tasks for Spring training 2018\StreamsTask2017\ConsoleClient\bin\Debug\ConsoleClient.exe.config
+C:\Users\MIB\Desktop\New tasks for Spring training 2018\StreamsTask2017\ConsoleClient\bin\Debug\ConsoleClient.exe
+C:\Users\MIB\Desktop\New tasks for Spring training 2018\StreamsTask2017\ConsoleClient\bin\Debug\ConsoleClient.pdb
+C:\Users\MIB\Desktop\New tasks for Spring training 2018\StreamsTask2017\ConsoleClient\bin\Debug\StreamsDemo.dll
+C:\Users\MIB\Desktop\New tasks for Spring training 2018\StreamsTask2017\ConsoleClient\bin\Debug\StreamsDemo.pdb
+C:\Users\MIB\Desktop\New tasks for Spring training 2018\StreamsTask2017\ConsoleClient\obj\Debug\ConsoleClient.csprojResolveAssemblyReference.cache
+C:\Users\MIB\Desktop\New tasks for Spring training 2018\StreamsTask2017\ConsoleClient\obj\Debug\ConsoleClient.csproj.CoreCompileInputs.cache
+C:\Users\MIB\Desktop\New tasks for Spring training 2018\StreamsTask2017\ConsoleClient\obj\Debug\ConsoleClient.exe
+C:\Users\MIB\Desktop\New tasks for Spring training 2018\StreamsTask2017\ConsoleClient\obj\Debug\ConsoleClient.pdb
+C:\Users\MIB\Desktop\New tasks for Spring training 2018\StreamsTask2017\ConsoleClient\bin\Debug\SourceText.txt
