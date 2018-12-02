@@ -2,3 +2,11 @@ C:\Users\Vladislav\source\repos\PolynomialLibrary\PolynomialLibrary\obj\Debug\ne
 C:\Users\Vladislav\source\repos\PolynomialLibrary\PolynomialLibrary\obj\Debug\netcoreapp2.0\PolynomialLibrary.csproj.CoreCompileInputs.cache
 C:\Users\Vladislav\source\repos\PolynomialLibrary\PolynomialLibrary\obj\Debug\netcoreapp2.0\PolynomialLibrary.AssemblyInfoInputs.cache
 C:\Users\Vladislav\source\repos\PolynomialLibrary\PolynomialLibrary\obj\Debug\netcoreapp2.0\PolynomialLibrary.AssemblyInfo.cs
+C:\Users\Vladislav\Source\Repos\NET1.A.2018.Rys\NET1.A.2018.Rys.05\PolynomialLibrary\PolynomialLibrary\bin\Debug\netcoreapp2.0\PolynomialLibrary.deps.json
+C:\Users\Vladislav\Source\Repos\NET1.A.2018.Rys\NET1.A.2018.Rys.05\PolynomialLibrary\PolynomialLibrary\bin\Debug\netcoreapp2.0\PolynomialLibrary.dll
+C:\Users\Vladislav\Source\Repos\NET1.A.2018.Rys\NET1.A.2018.Rys.05\PolynomialLibrary\PolynomialLibrary\bin\Debug\netcoreapp2.0\PolynomialLibrary.pdb
+C:\Users\Vladislav\Source\Repos\NET1.A.2018.Rys\NET1.A.2018.Rys.05\PolynomialLibrary\PolynomialLibrary\obj\Debug\netcoreapp2.0\PolynomialLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Vladislav\Source\Repos\NET1.A.2018.Rys\NET1.A.2018.Rys.05\PolynomialLibrary\PolynomialLibrary\obj\Debug\netcoreapp2.0\PolynomialLibrary.AssemblyInfoInputs.cache
+C:\Users\Vladislav\Source\Repos\NET1.A.2018.Rys\NET1.A.2018.Rys.05\PolynomialLibrary\PolynomialLibrary\obj\Debug\netcoreapp2.0\PolynomialLibrary.AssemblyInfo.cs
+C:\Users\Vladislav\Source\Repos\NET1.A.2018.Rys\NET1.A.2018.Rys.05\PolynomialLibrary\PolynomialLibrary\obj\Debug\netcoreapp2.0\PolynomialLibrary.dll
+C:\Users\Vladislav\Source\Repos\NET1.A.2018.Rys\NET1.A.2018.Rys.05\PolynomialLibrary\PolynomialLibrary\obj\Debug\netcoreapp2.0\PolynomialLibrary.pdb

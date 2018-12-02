@@ -1,0 +1,8 @@
+C:\Users\Vladislav\Source\Repos\NET1.A.2018.Rys\NET1.A.2018.Rys.14\FibonacciGeneratorLibrary\FibonacciGeneratorLibrary\bin\Debug\netcoreapp2.1\FibonacciGeneratorLibrary.deps.json
+C:\Users\Vladislav\Source\Repos\NET1.A.2018.Rys\NET1.A.2018.Rys.14\FibonacciGeneratorLibrary\FibonacciGeneratorLibrary\bin\Debug\netcoreapp2.1\FibonacciGeneratorLibrary.dll
+C:\Users\Vladislav\Source\Repos\NET1.A.2018.Rys\NET1.A.2018.Rys.14\FibonacciGeneratorLibrary\FibonacciGeneratorLibrary\bin\Debug\netcoreapp2.1\FibonacciGeneratorLibrary.pdb
+C:\Users\Vladislav\Source\Repos\NET1.A.2018.Rys\NET1.A.2018.Rys.14\FibonacciGeneratorLibrary\FibonacciGeneratorLibrary\obj\Debug\netcoreapp2.1\FibonacciGeneratorLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Vladislav\Source\Repos\NET1.A.2018.Rys\NET1.A.2018.Rys.14\FibonacciGeneratorLibrary\FibonacciGeneratorLibrary\obj\Debug\netcoreapp2.1\FibonacciGeneratorLibrary.AssemblyInfoInputs.cache
+C:\Users\Vladislav\Source\Repos\NET1.A.2018.Rys\NET1.A.2018.Rys.14\FibonacciGeneratorLibrary\FibonacciGeneratorLibrary\obj\Debug\netcoreapp2.1\FibonacciGeneratorLibrary.AssemblyInfo.cs
+C:\Users\Vladislav\Source\Repos\NET1.A.2018.Rys\NET1.A.2018.Rys.14\FibonacciGeneratorLibrary\FibonacciGeneratorLibrary\obj\Debug\netcoreapp2.1\FibonacciGeneratorLibrary.dll
+C:\Users\Vladislav\Source\Repos\NET1.A.2018.Rys\NET1.A.2018.Rys.14\FibonacciGeneratorLibrary\FibonacciGeneratorLibrary\obj\Debug\netcoreapp2.1\FibonacciGeneratorLibrary.pdb
