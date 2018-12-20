@@ -1,0 +1,14 @@
+C:\Users\Vladislav\Source\Repos\NET1.A.2018.Rys\NET1.A.2018.Rys.15\QueueLibrary\QueueConsoleTests\bin\Debug\netcoreapp2.1\QueueConsoleTests.deps.json
+C:\Users\Vladislav\Source\Repos\NET1.A.2018.Rys\NET1.A.2018.Rys.15\QueueLibrary\QueueConsoleTests\bin\Debug\netcoreapp2.1\QueueConsoleTests.runtimeconfig.json
+C:\Users\Vladislav\Source\Repos\NET1.A.2018.Rys\NET1.A.2018.Rys.15\QueueLibrary\QueueConsoleTests\bin\Debug\netcoreapp2.1\QueueConsoleTests.runtimeconfig.dev.json
+C:\Users\Vladislav\Source\Repos\NET1.A.2018.Rys\NET1.A.2018.Rys.15\QueueLibrary\QueueConsoleTests\bin\Debug\netcoreapp2.1\QueueConsoleTests.dll
+C:\Users\Vladislav\Source\Repos\NET1.A.2018.Rys\NET1.A.2018.Rys.15\QueueLibrary\QueueConsoleTests\bin\Debug\netcoreapp2.1\QueueConsoleTests.pdb
+C:\Users\Vladislav\Source\Repos\NET1.A.2018.Rys\NET1.A.2018.Rys.15\QueueLibrary\QueueConsoleTests\bin\Debug\netcoreapp2.1\QueueLibrary.dll
+C:\Users\Vladislav\Source\Repos\NET1.A.2018.Rys\NET1.A.2018.Rys.15\QueueLibrary\QueueConsoleTests\bin\Debug\netcoreapp2.1\QueueLibrary.pdb
+C:\Users\Vladislav\Source\Repos\NET1.A.2018.Rys\NET1.A.2018.Rys.15\QueueLibrary\QueueConsoleTests\obj\Debug\netcoreapp2.1\QueueConsoleTests.csprojAssemblyReference.cache
+C:\Users\Vladislav\Source\Repos\NET1.A.2018.Rys\NET1.A.2018.Rys.15\QueueLibrary\QueueConsoleTests\obj\Debug\netcoreapp2.1\QueueConsoleTests.csproj.CoreCompileInputs.cache
+C:\Users\Vladislav\Source\Repos\NET1.A.2018.Rys\NET1.A.2018.Rys.15\QueueLibrary\QueueConsoleTests\obj\Debug\netcoreapp2.1\QueueConsoleTests.AssemblyInfoInputs.cache
+C:\Users\Vladislav\Source\Repos\NET1.A.2018.Rys\NET1.A.2018.Rys.15\QueueLibrary\QueueConsoleTests\obj\Debug\netcoreapp2.1\QueueConsoleTests.AssemblyInfo.cs
+C:\Users\Vladislav\Source\Repos\NET1.A.2018.Rys\NET1.A.2018.Rys.15\QueueLibrary\QueueConsoleTests\obj\Debug\netcoreapp2.1\QueueConsoleTests.csproj.CopyComplete
+C:\Users\Vladislav\Source\Repos\NET1.A.2018.Rys\NET1.A.2018.Rys.15\QueueLibrary\QueueConsoleTests\obj\Debug\netcoreapp2.1\QueueConsoleTests.dll
+C:\Users\Vladislav\Source\Repos\NET1.A.2018.Rys\NET1.A.2018.Rys.15\QueueLibrary\QueueConsoleTests\obj\Debug\netcoreapp2.1\QueueConsoleTests.pdb

@@ -6,8 +6,6 @@ namespace QueueLibrary
 {
     public class Queue<T> : IEnumerable<T>, IEnumerable
     {
-        private static T[] _emptyArray = new T[0];
-        
         private int _tail;
         private int _head;
         private int _size;
@@ -22,18 +20,12 @@ namespace QueueLibrary
             get => this._size;
         }
 
-        private T this[int i]
-        {
-            get => _array[i];
-            set => _array[i] = value;
-        }
-
         /// <summary>
-        /// 
+        /// Creating the queue with default size.
         /// </summary>
         public Queue()
         {
-            this._array = Queue<T>._emptyArray;
+            this._array = new T[_DefaultSize];
         }
 
         public Queue(int capasity)
@@ -119,6 +111,7 @@ namespace QueueLibrary
             return GetEnumerator();
         }
 
+        #region Queue Iterator  
         /// <summary>
         /// Represents structure to implement iterator
         /// </summary>
@@ -151,6 +144,19 @@ namespace QueueLibrary
             }
 
             public void Reset() => _currentIndex = -1;
+        }
+        #endregion
+
+
+        private T this[int i]
+        {
+            get => _array[i];
+            set => _array[i] = value;
+        }
+
+        private void SetCapasity()
+        {
+
         }
     }
 }
