@@ -1,13 +1,15 @@
 ﻿using System;
 using QueueLibrary;
 
+using System.Collections.Generic;
+
 namespace QueueConsoleTests
 {
     class Program
     {
         static void Main(string[] args)
         {
-            QueueLibrary.Queue<int> q = new Queue<int>();
+            QueueLibrary.Queue<int> q = new QueueLibrary.Queue<int>();
 
             int[] a = new[] {1, 2, 3, 4, 5, 6, 7, 8};
 

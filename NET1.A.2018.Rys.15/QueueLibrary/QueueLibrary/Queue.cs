@@ -9,6 +9,7 @@ namespace QueueLibrary
         private int _tail;
         private int _head;
         private int _size;
+            
         private T[] _array;
         private int _version;
 
@@ -28,13 +29,16 @@ namespace QueueLibrary
             this._array = new T[_DefaultSize];
         }
 
+        /// <summary>
+        /// Creating sized queue.
+        /// </summary>
         public Queue(int capasity)
         {
             if(capasity < 0) throw new ArgumentOutOfRangeException(nameof(capasity), " capasity must be grater that zero!");
             _array = new T[capasity];
-            this._head = 0;
-            this._tail = 0;
-            this._size = 0;
+            _head = 0;
+            _tail = 0;
+            _size = 0;
         }
 
         /// <summary>
@@ -48,10 +52,7 @@ namespace QueueLibrary
         /// </summary>
         public void Clear()
         {
-            if (_size == 0)
-            {
-                return;
-            }
+            if (_size == 0) return;
 
             _size = _head = _tail = 0;
             Array.Clear(_array, 0, _array.Length);
@@ -64,14 +65,24 @@ namespace QueueLibrary
         /// <param name="item">Item what must be added</param>
         public void Enqueue(T item)
         {
-            if (Count == _array.Length)
+            if (this._size == this._array.Length)
             {
-                Array.Resize(ref _array, _size * _GrowthFactor);
+                int capacity = (int)((long)this._array.Length * 200L / 100L);
+                if (capacity < this._array.Length + 4)
+                    capacity = this._array.Length + 4;
+                this.SetCapacity(capacity);
             }
 
-            _array[_tail++] = item;
+            _array[_tail] = item;
+            _tail = (_tail + 1) % _array.Length;
+
             _size++;
             _version++;
+        }
+
+        private void SetCapacity(int capacity)
+        {
+            throw new NotImplementedException();
         }
 
         /// <summary>
@@ -80,13 +91,11 @@ namespace QueueLibrary
         /// <returns></returns>
         public T Dequeue()
         {
-            if (Count == 0)
-            {
-                throw new InvalidOperationException($"{Count} is 0");
-            }
-
+            if (_size == 0) throw new ArgumentException($"{Count} is 0");
+            
             T value = _array[_head];
             _array[_head++] = default(T);
+
             _size--;
             _version++;
 
@@ -152,11 +161,6 @@ namespace QueueLibrary
         {
             get => _array[i];
             set => _array[i] = value;
-        }
-
-        private void SetCapasity()
-        {
-
         }
     }
 }
