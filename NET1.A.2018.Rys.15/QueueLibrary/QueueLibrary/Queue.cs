@@ -34,7 +34,8 @@ namespace QueueLibrary
         /// </summary>
         public Queue(int capasity)
         {
-            if(capasity < 0) throw new ArgumentOutOfRangeException(nameof(capasity), " capasity must be grater that zero!");
+            if(capasity < 0)
+                throw new ArgumentOutOfRangeException(nameof(capasity), " capasity must be grater that zero!");
             _array = new T[capasity];
             _head = 0;
             _tail = 0;
@@ -52,7 +53,8 @@ namespace QueueLibrary
         /// </summary>
         public void Clear()
         {
-            if (_size == 0) return;
+            if (_size == 0)
+                return;
 
             _size = _head = _tail = 0;
             Array.Clear(_array, 0, _array.Length);
