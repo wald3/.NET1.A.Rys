@@ -158,7 +158,6 @@ namespace QueueLibrary
         }
         #endregion
 
-
         private T this[int i]
         {
             get => _array[i];
