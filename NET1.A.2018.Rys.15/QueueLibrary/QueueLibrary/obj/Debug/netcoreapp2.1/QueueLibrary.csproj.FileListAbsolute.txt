@@ -7,3 +7,5 @@ C:\Users\Vladislav\Source\Repos\NET1.A.2018.Rys\NET1.A.2018.Rys.15\QueueLibrary\
 C:\Users\Vladislav\Source\Repos\NET1.A.2018.Rys\NET1.A.2018.Rys.15\QueueLibrary\QueueLibrary\obj\Debug\netcoreapp2.1\QueueLibrary.AssemblyInfo.cs
 C:\Users\Vladislav\Source\Repos\NET1.A.2018.Rys\NET1.A.2018.Rys.15\QueueLibrary\QueueLibrary\obj\Debug\netcoreapp2.1\QueueLibrary.dll
 C:\Users\Vladislav\Source\Repos\NET1.A.2018.Rys\NET1.A.2018.Rys.15\QueueLibrary\QueueLibrary\obj\Debug\netcoreapp2.1\QueueLibrary.pdb
+C:\Users\Vladislav\Source\Repos\NET1.A.2018.Rys\NET1.A.2018.Rys.15\QueueLibrary\QueueLibrary\bin\Debug\netcoreapp2.1\QueueLibrary.runtimeconfig.json
+C:\Users\Vladislav\Source\Repos\NET1.A.2018.Rys\NET1.A.2018.Rys.15\QueueLibrary\QueueLibrary\bin\Debug\netcoreapp2.1\QueueLibrary.runtimeconfig.dev.json

@@ -46,7 +46,7 @@ namespace QueueLibrary
         /// Check queue from empty
         /// </summary>
         /// <returns></returns>
-        public bool IsEmpty() => _head == _tail;
+        public bool IsEmpty() => _size == 0;
 
         /// <summary>
         /// Clear queue
@@ -84,7 +84,18 @@ namespace QueueLibrary
 
         private void SetCapacity(int capacity)
         {
-            throw new NotImplementedException();
+            if(capacity < 0)
+                throw new ArgumentOutOfRangeException(nameof(capacity));
+            var resizedArray = new T[capacity];
+            if (_head > _tail)
+            {
+                Array.Copy(_array, resizedArray, _array.Length - _head);
+                Array.Copy(_array, resizedArray, _array.Length - _head);
+            }
+            else
+            {
+                
+            }
         }
 
         /// <summary>

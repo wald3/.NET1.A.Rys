@@ -6,13 +6,13 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v2.1": {
-      "QueueLibrary/1.0.0": {
+      "QueueLibrary.Nu.Tests/1.0.0": {
         "dependencies": {
           "Microsoft.NET.Test.Sdk": "15.9.0",
           "NUnit": "3.11.0"
         },
         "runtime": {
-          "QueueLibrary.dll": {}
+          "QueueLibrary.Nu.Tests.dll": {}
         }
       },
       "Microsoft.CodeCoverage/15.9.0": {
@@ -1006,7 +1006,7 @@
     }
   },
   "libraries": {
-    "QueueLibrary/1.0.0": {
+    "QueueLibrary.Nu.Tests/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
