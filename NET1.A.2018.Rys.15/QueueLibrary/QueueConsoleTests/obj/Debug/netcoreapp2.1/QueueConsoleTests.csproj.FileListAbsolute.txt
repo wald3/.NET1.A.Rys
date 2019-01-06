@@ -12,3 +12,6 @@ C:\Users\Vladislav\Source\Repos\NET1.A.2018.Rys\NET1.A.2018.Rys.15\QueueLibrary\
 C:\Users\Vladislav\Source\Repos\NET1.A.2018.Rys\NET1.A.2018.Rys.15\QueueLibrary\QueueConsoleTests\obj\Debug\netcoreapp2.1\QueueConsoleTests.csproj.CopyComplete
 C:\Users\Vladislav\Source\Repos\NET1.A.2018.Rys\NET1.A.2018.Rys.15\QueueLibrary\QueueConsoleTests\obj\Debug\netcoreapp2.1\QueueConsoleTests.dll
 C:\Users\Vladislav\Source\Repos\NET1.A.2018.Rys\NET1.A.2018.Rys.15\QueueLibrary\QueueConsoleTests\obj\Debug\netcoreapp2.1\QueueConsoleTests.pdb
+C:\Users\Vladislav\Source\Repos\NET1.A.2018.Rys\NET1.A.2018.Rys.15\QueueLibrary\QueueConsoleTests\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.dll
+C:\Users\Vladislav\Source\Repos\NET1.A.2018.Rys\NET1.A.2018.Rys.15\QueueLibrary\QueueConsoleTests\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.pdb
+C:\Users\Vladislav\Source\Repos\NET1.A.2018.Rys\NET1.A.2018.Rys.15\QueueLibrary\QueueConsoleTests\bin\Debug\netcoreapp2.1\nunit.engine.netstandard.dll

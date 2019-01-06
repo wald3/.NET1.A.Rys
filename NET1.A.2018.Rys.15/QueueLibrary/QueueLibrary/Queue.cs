@@ -6,15 +6,23 @@ namespace QueueLibrary
 {
     public class Queue<T> : IEnumerable<T>, IEnumerable
     {
+        #region private fields
+
         private int _tail;
         private int _head;
         private int _size;
-            
+
         private T[] _array;
         private int _version;
 
+        #endregion
+
+        #region const fields
+
         private const int _DefaultSize = 4;
         private const int _GrowthFactor = 2;
+
+        #endregion
 
         public int Count
         {
@@ -82,26 +90,10 @@ namespace QueueLibrary
             _version++;
         }
 
-        private void SetCapacity(int capacity)
-        {
-            if(capacity < 0)
-                throw new ArgumentOutOfRangeException(nameof(capacity));
-            var resizedArray = new T[capacity];
-            if (_head > _tail)
-            {
-                Array.Copy(_array, resizedArray, _array.Length - _head);
-                Array.Copy(_array, resizedArray, _array.Length - _head);
-            }
-            else
-            {
-                
-            }
-        }
-
         /// <summary>
-        /// Get value from Queue
+        /// Get value from Queue.
         /// </summary>
-        /// <returns></returns>
+        /// <returns> Returns the first elemt of queue. </returns>
         public T Dequeue()
         {
             if (_size == 0) throw new ArgumentException($"{Count} is 0");
@@ -116,18 +108,36 @@ namespace QueueLibrary
         }
 
         /// <summary>
-        /// Represents method for getting iterator for Queue
+        /// Returns the string version of queue.
         /// </summary>
-        /// <returns></returns>
+        /// <returns> String equation of an array. </returns>
+        public override string ToString()
+        {
+            return _array.ToString();
+        }
+
+        /// <summary>
+        /// Returns the hash code of the queue.
+        /// </summary>
+        /// <returns> Int hash of a queue. </returns>
+        public override int GetHashCode()
+        {
+            return _array.GetHashCode().GetHashCode();
+        }
+
+        /// <summary>
+        /// Represents method for getting iterator for Queue.
+        /// </summary>
+        /// <returns> Returns the itarator. </returns>
         public IEnumerator<T> GetEnumerator()
         {
             return new QueueIterator(this);
         }
 
         /// <summary>
-        /// Represents method for getting iterator for Queue
+        /// Represents method for getting iterator for Queue.
         /// </summary>
-        /// <returns></returns>
+        /// <returns> Retrurns an interface link of iterator. </returns>
         IEnumerator IEnumerable.GetEnumerator()
         {
             return GetEnumerator();
@@ -173,6 +183,29 @@ namespace QueueLibrary
         {
             get => _array[i];
             set => _array[i] = value;
+        }
+
+        /// <summary>
+        /// Resize the current array of the Queue.
+        /// </summary>
+        /// <param name="capacity"> New capasity of the array. </param>
+        private void SetCapacity(int capacity)
+        {
+            if (capacity < 0)
+                throw new ArgumentOutOfRangeException(nameof(capacity));
+
+            var resizedArray = new T[capacity];
+            if (_head < _tail)
+            {
+                Array.Copy(_array, 0, resizedArray, 0, _array.Length);
+            }
+            else
+            {
+                Array.Copy(_array, _head, resizedArray, 0, _array.Length - _head);
+                Array.Copy(_array, 0, resizedArray, _array.Length - _head, _tail);
+            }
+
+            _array = resizedArray;
         }
     }
 }
