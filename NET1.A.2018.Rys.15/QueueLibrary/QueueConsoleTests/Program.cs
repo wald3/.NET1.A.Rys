@@ -18,14 +18,16 @@ namespace QueueConsoleTests
             {
                 q.Enqueue(num);
             }
-
-            q.ToString();
+            q.Enqueue(4);
+            Console.WriteLine(q.ToString()); 
+            Console.WriteLine(q.GetHashCode());
 
             foreach (var q_item in q)
             {
                 Console.WriteLine(q_item);
             }
 
+            Console.ReadKey();
         }
     }
 }

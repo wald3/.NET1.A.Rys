@@ -1,6 +1,8 @@
 ﻿using System;
 using System.Collections;
 using System.Collections.Generic;
+using System.Linq;
+using System.Security.Cryptography.X509Certificates;
 
 namespace QueueLibrary
 {
@@ -42,7 +44,7 @@ namespace QueueLibrary
         /// </summary>
         public Queue(int capasity)
         {
-            if(capasity < 0)
+            if (capasity < 0)
                 throw new ArgumentOutOfRangeException(nameof(capasity), " capasity must be grater that zero!");
             _array = new T[capasity];
             _head = 0;
@@ -97,7 +99,7 @@ namespace QueueLibrary
         public T Dequeue()
         {
             if (_size == 0) throw new ArgumentException($"{Count} is 0");
-            
+
             T value = _array[_head];
             _array[_head++] = default(T);
 
@@ -113,7 +115,13 @@ namespace QueueLibrary
         /// <returns> String equation of an array. </returns>
         public override string ToString()
         {
-            return _array.ToString();
+            var resultStr = "";
+            foreach (var item in _array)
+            {
+                resultStr += item.ToString() + ", ";
+            }
+
+            return "[" + resultStr.Remove(resultStr.Length - 2, 2) + "]";
         }
 
         /// <summary>
