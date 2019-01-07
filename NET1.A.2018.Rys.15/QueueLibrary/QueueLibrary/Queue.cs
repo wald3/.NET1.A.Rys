@@ -36,7 +36,7 @@ namespace QueueLibrary
         /// </summary>
         public Queue()
         {
-            this._array = new T[_DefaultSize];
+            _array = new T[_DefaultSize];
         }
 
         /// <summary>
@@ -174,16 +174,19 @@ namespace QueueLibrary
 
             public bool MoveNext()
             {
-                if (_currentIndex < _queue._array.Length - 1)
+                // TODO
+                // add index to count the items in the array
+                // do IF(idenx > queue.size) 
+                if (_currentIndex < (_queue._array.Length - 1))
                 {
-                    _currentIndex++;
+                    _currentIndex = (_currentIndex + 1) % _queue._array.Length;
                     return true;
                 }
 
                 return false;
             }
 
-            public void Reset() => _currentIndex = -1;
+            public void Reset() => _currentIndex = _queue._head - 1;
         }
         #endregion
 
@@ -211,9 +214,12 @@ namespace QueueLibrary
             {
                 Array.Copy(_array, _head, resizedArray, 0, _array.Length - _head);
                 Array.Copy(_array, 0, resizedArray, _array.Length - _head, _tail);
+                _tail = _size;
+                _head = 0;
             }
 
             _array = resizedArray;
+            _version++;
         }
     }
 }

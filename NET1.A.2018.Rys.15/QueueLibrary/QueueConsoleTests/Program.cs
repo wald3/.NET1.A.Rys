@@ -9,7 +9,7 @@ namespace QueueConsoleTests
     {
         static void Main(string[] args)
         {
-            QueueLibrary.Queue<int> q = new QueueLibrary.Queue<int>(8);
+            QueueLibrary.Queue<int> q = new QueueLibrary.Queue<int>();
             int[] a = new[] {1, 2, 3, 4, 5, 6, 7, 8};
 
 
@@ -17,16 +17,31 @@ namespace QueueConsoleTests
             foreach (var num in a)
             {
                 q.Enqueue(num);
+                //Console.Write("0 ");
             }
-            q.Enqueue(4);
+            //q.Enqueue(9);// resize
+            q.Dequeue();
+            //q.Dequeue();
+            q.Enqueue(10);
+            q.Dequeue();
+            //q.Enqueue(12);
+            //q.Enqueue(13);
+            //q.Enqueue(14);
+           // q.Enqueue(15);
+            //q.Enqueue(16);
+            //q.Enqueue(17);
+            //q.Enqueue(18);//resize
+            //q.Enqueue(19);
             Console.WriteLine(q.ToString()); 
-            Console.WriteLine(q.GetHashCode());
+            Console.WriteLine();
 
-            foreach (var q_item in q)
+
+            string str = "";
+            foreach (var _q in q)
             {
-                Console.WriteLine(q_item);
+                str += _q.ToString()+", ";
             }
-
+            Console.WriteLine(str);
             Console.ReadKey();
         }
     }
