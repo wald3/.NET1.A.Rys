@@ -159,6 +159,7 @@ namespace QueueLibrary
         {
             private Queue<T> _queue;
             private int _currentIndex;
+            private int _index;
 
             public T Current => _queue[_currentIndex];
 
@@ -166,20 +167,32 @@ namespace QueueLibrary
             {
                 _currentIndex = qivenQueue._head - 1;
                 _queue = qivenQueue;
+                _index = 0;
             }
 
             object IEnumerator.Current => Current;
 
             public void Dispose() => Reset();
 
+            /*
+                if (_currentIndex < (_queue._array.Length - 1))
+                {
+                    _currentIndex = (_currentIndex + 1) % _queue._array.Length;
+                    return true;
+                }
+
+                return false;
+             */
+
             public bool MoveNext()
             {
                 // TODO
                 // add index to count the items in the array
                 // do IF(idenx > queue.size) 
-                if (_currentIndex < (_queue._array.Length - 1))
+                if (_index < _queue._size)
                 {
                     _currentIndex = (_currentIndex + 1) % _queue._array.Length;
+                    _index++;
                     return true;
                 }
 
