@@ -649,6 +649,35 @@
           "build/NUnit.props": {}
         }
       },
+      "NUnit.ConsoleRunner/3.9.0": {
+        "type": "package"
+      },
+      "NUnit.Extension.NUnitProjectLoader/3.5.0": {
+        "type": "package"
+      },
+      "NUnit.Extension.NUnitV2Driver/3.6.0": {
+        "type": "package"
+      },
+      "NUnit.Extension.NUnitV2ResultWriter/3.5.0": {
+        "type": "package"
+      },
+      "NUnit.Extension.TeamCityEventListener/1.0.3": {
+        "type": "package"
+      },
+      "NUnit.Extension.VSProjectLoader/3.8.0": {
+        "type": "package"
+      },
+      "NUnit.Runners/3.9.0": {
+        "type": "package",
+        "dependencies": {
+          "NUnit.ConsoleRunner": "3.9.0",
+          "NUnit.Extension.NUnitProjectLoader": "3.5.0",
+          "NUnit.Extension.NUnitV2Driver": "3.6.0",
+          "NUnit.Extension.NUnitV2ResultWriter": "3.5.0",
+          "NUnit.Extension.TeamCityEventListener": "1.0.3",
+          "NUnit.Extension.VSProjectLoader": "3.8.0"
+        }
+      },
       "NUnit3TestAdapter/3.12.0": {
         "type": "package",
         "dependencies": {
@@ -1649,12 +1678,6 @@
       "QueueLibrary/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v2.1",
-        "dependencies": {
-          "Microsoft.NET.Test.Sdk": "15.9.0",
-          "Microsoft.NETCore.App": "2.1.0",
-          "NUnit": "3.11.0",
-          "NUnit3TestAdapter": "3.12.0"
-        },
         "compile": {
           "bin/placeholder/QueueLibrary.dll": {}
         },
@@ -2630,6 +2653,116 @@
         "lib/netstandard2.0/nunit.framework.xml",
         "nunit.3.11.0.nupkg.sha512",
         "nunit.nuspec"
+      ]
+    },
+    "NUnit.ConsoleRunner/3.9.0": {
+      "sha512": "WFrAd1gEpe6v7KZxlV0vhP6r1DJ4ttFrBXXkw0QGJ7OKiLI9vcqNTHQC67cs6W3FBBM84rNUJ5q2+GiL+my1tQ==",
+      "type": "package",
+      "path": "nunit.consolerunner/3.9.0",
+      "hasTools": true,
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "CHANGES.txt",
+        "LICENSE.txt",
+        "NOTICES.txt",
+        "nunit.consolerunner.3.9.0.nupkg.sha512",
+        "nunit.consolerunner.nuspec",
+        "tools/Mono.Cecil.dll",
+        "tools/nunit-agent-x86.exe",
+        "tools/nunit-agent-x86.exe.config",
+        "tools/nunit-agent.exe",
+        "tools/nunit-agent.exe.config",
+        "tools/nunit.engine.api.dll",
+        "tools/nunit.engine.api.xml",
+        "tools/nunit.engine.dll",
+        "tools/nunit.nuget.addins",
+        "tools/nunit3-console.exe",
+        "tools/nunit3-console.exe.config"
+      ]
+    },
+    "NUnit.Extension.NUnitProjectLoader/3.5.0": {
+      "sha512": "tJlcR8v7mbxjop5maZZ5BmjBL3ceDb5sibC5VX2cLDDuzs2hnXxTYNEouh0OBdhdmSY23uqA3H7j9LpM0gIVQw==",
+      "type": "package",
+      "path": "nunit.extension.nunitprojectloader/3.5.0",
+      "hasTools": true,
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "nunit.extension.nunitprojectloader.3.5.0.nupkg.sha512",
+        "nunit.extension.nunitprojectloader.nuspec",
+        "tools/nunit-project-loader.dll"
+      ]
+    },
+    "NUnit.Extension.NUnitV2Driver/3.6.0": {
+      "sha512": "guQVShKZUgsOrCOLatR0bt0HlETZmJ+B38Z8ZiTxB6jg9VPHHeyFlsTZBCqSak2KYLvi8UFl14vCq1dIQVDanw==",
+      "type": "package",
+      "path": "nunit.extension.nunitv2driver/3.6.0",
+      "hasTools": true,
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE.txt",
+        "nunit.extension.nunitv2driver.3.6.0.nupkg.sha512",
+        "nunit.extension.nunitv2driver.nuspec",
+        "tools/nunit.core.dll",
+        "tools/nunit.core.interfaces.dll",
+        "tools/nunit.v2.driver.addins",
+        "tools/nunit.v2.driver.dll"
+      ]
+    },
+    "NUnit.Extension.NUnitV2ResultWriter/3.5.0": {
+      "sha512": "XKULYMnMtOF2KgK4XD5rx9T2JtcAyrTbq6+z3F33deTB3D60j8aTvFL5KkYFdVAMigqT573NU8WjnxCnBoOrgQ==",
+      "type": "package",
+      "path": "nunit.extension.nunitv2resultwriter/3.5.0",
+      "hasTools": true,
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "nunit.extension.nunitv2resultwriter.3.5.0.nupkg.sha512",
+        "nunit.extension.nunitv2resultwriter.nuspec",
+        "tools/nunit-v2-result-writer.dll"
+      ]
+    },
+    "NUnit.Extension.TeamCityEventListener/1.0.3": {
+      "sha512": "1SjylKnGLQDyllMHbj+b+HWqmFy5hnIFGXGiNXz3ZbSqaZmuyfO6p2aq/8BouzFnVSO28cMTrIgj01M94puC1Q==",
+      "type": "package",
+      "path": "nunit.extension.teamcityeventlistener/1.0.3",
+      "hasTools": true,
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "CHANGES.txt",
+        "LICENSE.txt",
+        "nunit.extension.teamcityeventlistener.1.0.3.nupkg.sha512",
+        "nunit.extension.teamcityeventlistener.nuspec",
+        "tools/teamcity-event-listener.dll"
+      ]
+    },
+    "NUnit.Extension.VSProjectLoader/3.8.0": {
+      "sha512": "BwD/qg+4mRfwsoAGquAc//lnWyJJmo/+hGolhZZ3o6NiGo2Tgk2uAkpcO56DAMRaHVIrNBokH8UkYyDsmNvqoQ==",
+      "type": "package",
+      "path": "nunit.extension.vsprojectloader/3.8.0",
+      "hasTools": true,
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "CHANGES.txt",
+        "LICENSE.txt",
+        "nunit.extension.vsprojectloader.3.8.0.nupkg.sha512",
+        "nunit.extension.vsprojectloader.nuspec",
+        "tools/vs-project-loader.dll"
+      ]
+    },
+    "NUnit.Runners/3.9.0": {
+      "sha512": "/iPkhcOFYq/mRRs45PN3FNdmILzt0pjP7KVqY9Pi8y/wH6p7IwEuZZMvoS5iWqef8d+BqcgpNiVf46EqQZJROQ==",
+      "type": "package",
+      "path": "nunit.runners/3.9.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "nunit.runners.3.9.0.nupkg.sha512",
+        "nunit.runners.nuspec"
       ]
     },
     "NUnit3TestAdapter/3.12.0": {
@@ -5767,6 +5900,7 @@
       "Microsoft.NET.Test.Sdk >= 15.9.0",
       "Microsoft.NETCore.App >= 2.1.0",
       "NUnit >= 3.11.0",
+      "NUnit.Runners >= 3.9.0",
       "NUnit3TestAdapter >= 3.12.0",
       "QueueLibrary >= 1.0.0"
     ]
@@ -5828,6 +5962,10 @@
           "NUnit": {
             "target": "Package",
             "version": "[3.11.0, )"
+          },
+          "NUnit.Runners": {
+            "target": "Package",
+            "version": "[3.9.0, )"
           },
           "NUnit3TestAdapter": {
             "target": "Package",

@@ -98,7 +98,8 @@ namespace QueueLibrary
         /// <returns> Returns the first elemt of queue. </returns>
         public T Dequeue()
         {
-            if (_size == 0) throw new ArgumentException($"{Count} is 0");
+            if (_size == 0)
+                throw new ArgumentException($"{nameof(Count)} is 0");
 
             T value = _array[_head];
             _array[_head++] = default(T);
@@ -159,13 +160,16 @@ namespace QueueLibrary
         {
             private Queue<T> _queue;
             private int _currentIndex;
+            private int _version;
             private int _index;
+            
 
             public T Current => _queue[_currentIndex];
 
             public QueueIterator(Queue<T> qivenQueue)
             {
                 _currentIndex = qivenQueue._head - 1;
+                _version = qivenQueue._version;
                 _queue = qivenQueue;
                 _index = 0;
             }
@@ -186,9 +190,10 @@ namespace QueueLibrary
 
             public bool MoveNext()
             {
-                // TODO
-                // add index to count the items in the array
-                // do IF(idenx > queue.size) 
+                if(_version != _queue._version)
+                    throw new InvalidOperationException("Collection was modified." +
+                    " Enumator can not change the state of collection.");
+
                 if (_index < _queue._size)
                 {
                     _currentIndex = (_currentIndex + 1) % _queue._array.Length;

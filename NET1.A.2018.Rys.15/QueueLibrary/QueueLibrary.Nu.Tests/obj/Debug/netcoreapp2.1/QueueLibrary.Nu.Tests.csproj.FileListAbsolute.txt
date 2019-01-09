@@ -6,3 +6,12 @@ C:\Users\Vladislav\Source\Repos\NET1.A.2018.Rys\NET1.A.2018.Rys.15\QueueLibrary\
 C:\Users\Vladislav\Source\Repos\NET1.A.2018.Rys\NET1.A.2018.Rys.15\QueueLibrary\QueueLibrary.Nu.Tests\bin\Debug\netcoreapp2.1\QueueLibrary.Nu.Tests.runtimeconfig.json
 C:\Users\Vladislav\Source\Repos\NET1.A.2018.Rys\NET1.A.2018.Rys.15\QueueLibrary\QueueLibrary.Nu.Tests\bin\Debug\netcoreapp2.1\QueueLibrary.Nu.Tests.runtimeconfig.dev.json
 C:\Users\Vladislav\Source\Repos\NET1.A.2018.Rys\NET1.A.2018.Rys.15\QueueLibrary\QueueLibrary.Nu.Tests\obj\Debug\netcoreapp2.1\QueueLibrary.Nu.Tests.csprojAssemblyReference.cache
+C:\Users\Vladislav\Source\Repos\NET1.A.2018.Rys\NET1.A.2018.Rys.15\QueueLibrary\QueueLibrary.Nu.Tests\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.dll
+C:\Users\Vladislav\Source\Repos\NET1.A.2018.Rys\NET1.A.2018.Rys.15\QueueLibrary\QueueLibrary.Nu.Tests\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.pdb
+C:\Users\Vladislav\Source\Repos\NET1.A.2018.Rys\NET1.A.2018.Rys.15\QueueLibrary\QueueLibrary.Nu.Tests\bin\Debug\netcoreapp2.1\nunit.engine.netstandard.dll
+C:\Users\Vladislav\Source\Repos\NET1.A.2018.Rys\NET1.A.2018.Rys.15\QueueLibrary\QueueLibrary.Nu.Tests\bin\Debug\netcoreapp2.1\QueueLibrary.Nu.Tests.pdb
+C:\Users\Vladislav\Source\Repos\NET1.A.2018.Rys\NET1.A.2018.Rys.15\QueueLibrary\QueueLibrary.Nu.Tests\bin\Debug\netcoreapp2.1\QueueLibrary.dll
+C:\Users\Vladislav\Source\Repos\NET1.A.2018.Rys\NET1.A.2018.Rys.15\QueueLibrary\QueueLibrary.Nu.Tests\bin\Debug\netcoreapp2.1\QueueLibrary.pdb
+C:\Users\Vladislav\Source\Repos\NET1.A.2018.Rys\NET1.A.2018.Rys.15\QueueLibrary\QueueLibrary.Nu.Tests\obj\Debug\netcoreapp2.1\QueueLibrary.Nu.Tests.csproj.CopyComplete
+C:\Users\Vladislav\Source\Repos\NET1.A.2018.Rys\NET1.A.2018.Rys.15\QueueLibrary\QueueLibrary.Nu.Tests\obj\Debug\netcoreapp2.1\QueueLibrary.Nu.Tests.dll
+C:\Users\Vladislav\Source\Repos\NET1.A.2018.Rys\NET1.A.2018.Rys.15\QueueLibrary\QueueLibrary.Nu.Tests\obj\Debug\netcoreapp2.1\QueueLibrary.Nu.Tests.pdb
