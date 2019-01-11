@@ -187,7 +187,7 @@ namespace QueueLibrary
 
                 return false;
              */
-
+             
             public bool MoveNext()
             {
                 if(_version != _queue._version)
