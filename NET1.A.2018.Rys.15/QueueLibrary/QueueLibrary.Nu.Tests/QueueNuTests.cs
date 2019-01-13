@@ -1,6 +1,4 @@
-﻿using System;
-using System.Collections;
-using NUnit.Framework;
+﻿using NUnit.Framework;
 using System.Collections.Generic;
 
 namespace QueueLibrary.Nu.Tests
@@ -8,38 +6,29 @@ namespace QueueLibrary.Nu.Tests
     [TestFixture]
     public class QueueNuTests
     {
-
-
-        
-
         [TestCase(new[] { 1, 2, 3 })]
-        [TestCase(new[] { 1.0, 2.0, 3.0 })]
-        [TestCase(new[] { '1', '2', '3' })]
-
-        public void CreateQueue(Array actual)
+        [TestCase(new[] { 1, 2, 3, 4, 5, 6, 7, 8, 9, 0 })]
+        public void QueueEnqueAndDequeue_EnqueueSomeInts_DequeueThemIntoList(int[] actual)
         {
-            
-            var genericListType = typeof(Array);
-            var specificListType = genericListType.MakeGenericType( typeof( actual.GetType() ) );
-            var list = Activator.CreateInstance(specificListType);
+            var _queue = new Queue<int>();
 
-            var _queue = new QueueLibrary.Queue<typeof(list) >();
-
-            foreach (var array_item in actual)
+            foreach (var item in actual)
             {
-                _queue.Enqueue(array_item);
+                _queue.Enqueue(item);
             }
-            
+
             List<int> expected = new List<int>();
-            for (var i = 0; i < _queue.Count; i++)
+            var qLength = _queue.Count;
+
+            for (var i = 0; i < qLength; i++)
             {
                 expected.Add(_queue.Dequeue());
             }
-                
-            
 
-            Assert.AreEqual(true, true);
+            Assert.AreEqual(expected.ToArray(), actual);
         }
 
     }
+
+
 }

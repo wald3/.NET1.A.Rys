@@ -159,8 +159,8 @@ namespace QueueLibrary
         private struct QueueIterator : IEnumerator<T>
         {
             private Queue<T> _queue;
-            private int _currentIndex;
-            private int _version;
+            private readonly int _version;
+            private int _currentIndex;  
             private int _index;
             
 
@@ -177,24 +177,14 @@ namespace QueueLibrary
             object IEnumerator.Current => Current;
 
             public void Dispose() => Reset();
-
-            /*
-                if (_currentIndex < (_queue._array.Length - 1))
-                {
-                    _currentIndex = (_currentIndex + 1) % _queue._array.Length;
-                    return true;
-                }
-
-                return false;
-             */
-             
+           
             public bool MoveNext()
             {
                 if(_version != _queue._version)
                     throw new InvalidOperationException("Collection was modified." +
                     " Enumator can not change the state of collection.");
 
-                if (_index < _queue._size)
+                if (_index < _queue._size+1)
                 {
                     _currentIndex = (_currentIndex + 1) % _queue._array.Length;
                     _index++;
